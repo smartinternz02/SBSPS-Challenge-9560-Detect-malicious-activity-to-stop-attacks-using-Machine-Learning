@@ -21,9 +21,11 @@ IBM Services used :
   2. Change the path according to location of dataset and run.
   3. Add the path of .exe file and check whether it's malicious or legitimate.
 
-Progress of IBM Service :
+IBM Service :
+
 ![Progress Map](https://user-images.githubusercontent.com/80462379/196048888-9a3cddbc-224e-49b5-8edd-c2a58e0f0a7f.png)
 ![Relationship Map](https://user-images.githubusercontent.com/80462379/196048891-dfa6ff26-2972-4017-a46d-c95dea46e2ed.png)
 
 Output :
+
 ![Output](https://user-images.githubusercontent.com/80462379/196048885-d88081a6-759e-427e-b188-a9c4f4eb0fa0.png)
